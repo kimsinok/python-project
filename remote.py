@@ -1,1 +1,1 @@
-print('Welcome, remote!!')
+print('안녕, remote!!')
