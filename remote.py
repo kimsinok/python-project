@@ -1,1 +1,1 @@
-print('Hello, remote!!')
+print('Hi, remote!!')
